@@ -1,12 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
+<items version="2" />
 
-    <item
-        jar="D:\Miwok\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="5c954f17dbc6b378351c969b880047c01303acc5">
-        <dex dex="D:\Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cf4ed2d0b5135299085b7e3e6a5c02f193333485\classes.dex" />
-    </item>
-
-</items>
